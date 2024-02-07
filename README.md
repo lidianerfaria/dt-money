@@ -1,6 +1,8 @@
 # React + TypeScript + Vite
 ### 👩‍💻About the project:
-dt-money
+<h4 align="center"> 
+    :construction:  Project in construction  :construction:
+</h4>
 
 # Instalation
 1. **Clone the repository:** <br/>
